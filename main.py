@@ -6,6 +6,7 @@ from model import main_widget
 def main():
     app = QApplication(sys.argv)
     ex = main_widget.MainWindow()
+    ex.show()
     sys.exit(app.exec_())
 
 

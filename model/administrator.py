@@ -19,7 +19,7 @@ class AdministratorPage(QWidget):
     def __init__(self, info):
         super().__init__()
         self.info = info
-        self.focus = 3
+        self.focus = 0
         self.initUI()
 
     def initUI(self):
