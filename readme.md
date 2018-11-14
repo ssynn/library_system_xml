@@ -17,6 +17,8 @@
 ## 使用注意
 
 1. library_system 的xml版本不再需要SQLserver依赖，后台数据存储使用XML
+2. 运行环境Anaconda3 python3.6
+3. 需要的库PyQt5 lxml
 
 ## 截图
 
